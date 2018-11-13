@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a73eb72-5adf-46d7-bd68-e5363174da60" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/前端常用插件、工具类库汇总（下）.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/前端常用插件、工具类库汇总（上）.html" afterPath="$PROJECT_DIR$/前端常用插件、工具类库汇总（上）.html" />
+      <change beforePath="$PROJECT_DIR$/前端常用插件、工具类库汇总（下）.html" afterPath="$PROJECT_DIR$/前端常用插件、工具类库汇总（下）.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,22 +17,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="前端常用插件、工具类库汇总（上）.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/前端常用插件、工具类库汇总（上）.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1257">
-              <caret line="250" column="105" lean-forward="true" selection-start-line="250" selection-start-column="105" selection-end-line="250" selection-end-column="105" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="前端常用插件、工具类库汇总（下）.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="前端常用插件、工具类库汇总（下）.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/前端常用插件、工具类库汇总（下）.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-              <folding />
+            <state relative-caret-position="485">
+              <caret line="214" column="113" lean-forward="false" selection-start-line="214" selection-start-column="113" selection-end-line="214" selection-end-column="113" />
+              <folding>
+                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#2031#2037#0" expanded="true" />
+                <element signature="e#2037#2043#0" expanded="true" />
+                <element signature="n#ul#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#ul#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#ul#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#ul#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#ul#7;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,9 +53,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/前端常用插件、工具类库汇总（下）.html" />
         <option value="$PROJECT_DIR$/../picker/demo/index.html" />
         <option value="$PROJECT_DIR$/前端常用插件、工具类库汇总（上）.html" />
+        <option value="$PROJECT_DIR$/前端常用插件、工具类库汇总（下）.html" />
       </list>
     </option>
   </component>
@@ -138,12 +137,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542073614489</updated>
-      <workItem from="1542073616063" duration="6367000" />
+      <workItem from="1542073616063" duration="12275000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6367000" />
+    <option name="totallyTimeSpent" value="12275000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="819" extended-state="0" />
@@ -198,19 +197,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/前端常用插件、工具类库汇总（下）.html">
+    <entry file="file://$PROJECT_DIR$/前端常用插件、工具类库汇总（上）.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="288">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="54" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/前端常用插件、工具类库汇总（上）.html">
+    <entry file="file://$PROJECT_DIR$/前端常用插件、工具类库汇总（下）.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1257">
-          <caret line="250" column="105" lean-forward="true" selection-start-line="250" selection-start-column="105" selection-end-line="250" selection-end-column="105" />
-          <folding />
+        <state relative-caret-position="485">
+          <caret line="214" column="113" lean-forward="false" selection-start-line="214" selection-start-column="113" selection-end-line="214" selection-end-column="113" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#2031#2037#0" expanded="true" />
+            <element signature="e#2037#2043#0" expanded="true" />
+            <element signature="n#ul#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#7;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
